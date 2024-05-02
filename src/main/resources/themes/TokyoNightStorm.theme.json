@@ -1,6 +1,6 @@
 {
     "name": "TokyoNight Storm",
-    "dark": true,
+    "dark": false,
     "author": "Alexander Adhyatma <alexadhyatma@mailbox.org>",
     "editorScheme": "/themes/TokyoNightStorm.xml",
     "colors": {
